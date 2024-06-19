@@ -15,4 +15,6 @@ Ah oui et bien sur les commentaires c’est pas nécessaire, bah non. T’aurais
 
 Je suis pas sûr que cela ferait des scores d’audience, mais je persiste à penser qu’une frange non négligeable de mes coreligionnaires serait aussi prêt à mettre la main à la bourse pour mater ce genre d’aventures. Attention, si un producteur trouve l’idée intéressante, je veux au moins avoir mon nom au générique et une participation aux bénéfices. 
 
+On sait tous que ce n’est pas l’envie de gueuler comme un putois qui nous manque quand on tombe sur un beau morceau de code moisi. On aimerait bien trouver le responsable pour lui balancer un tombereau d’insultes bien pourri à la ganache. Ça soulage c’est sur, même si c’est quelqu’un d’autre qui si colle. Pour autant c’est pas bien constructif. Souvent, le pauvre gars se fait crucifier pour expier les fautes d’une équipe au complet, et pire encore de salopards qui se sont fait la malle depuis longtemps. C’est juste que ça soulage, qu’au fond on est des bêtes comme les autres.
+
 Bon pour être tout à fait juste, gardons bien à l’esprit que la grande majorité des cantiniers qui passent leur moment de gloire relative sur la boite à conneries finissent par glisser la clef sous la porte. La vie n’est pas tendre avec eux non plus.
