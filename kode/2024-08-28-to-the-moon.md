@@ -13,6 +13,6 @@ On passe en revue, ce que j’ai réussi à faire avec le peu d’informations d
 On commence à éplucher les pages du proto quand l’autre sélénite agite son gantelet. 
 
 « Oui mais tu n’as pas repris ce qui existait déjà ?   
-- Je te rappelle que c’était buggé, donc j’ai préférer corriger ça.   
-- Je suis pas sur qu’il fallait perdre du temps avec ça …   
-- 5 minutes chrono en main et le kawa dans l’autre. »   
+  - Je te rappelle que c’était buggé, donc j’ai préférer corriger ça.   
+  - Je suis pas sur qu’il fallait perdre du temps avec ça …   
+  - 5 minutes chrono en main et le kawa dans l’autre, c'est pas ce qui va nous mettre dans le jus. »   
