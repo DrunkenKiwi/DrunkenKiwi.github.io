@@ -9,4 +9,4 @@ Je profite de cet espace pour pouvoir m’exprimer en restant bien caché derri�
 
 Petit addendum de dernière minute, si vous souhaitez ajouter un commentaire ou réagir à un de mes posts : vous pouvez le faire en faisant juste une petite merge request. Je m'efforcerais d'ajouter ça dans la marge et dans la mesure du temps qui m'est disponible.
 
-La suite est [ici](https://drunkenkiwi.github.io/kode/index.md)
+La suite est [ici](https://drunkenkiwi.github.io/kode/index)
