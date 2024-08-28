@@ -12,9 +12,17 @@ La réunion commence par la lecture des specs du projet. J’ai déjà vu des an
 On passe en revue, ce que j’ai réussi à faire avec le peu d’informations dont je disposais. Je vais pas me jeter des fleurs mais pour un mec qui est parti au front avec sa bite et son couteau, je trouve que je m’en tire pas mal. Je vais pas demander la golden cross mais je me dis que ça ferait classe de plastronner avec ça cloué au buffet.   
 On commence à éplucher les pages du proto quand l’autre sélénite agite son gantelet. 
 
-« Oui mais tu n’as pas repris ce qui existait déjà ?   
-- Je te rappelle que c’était buggé, donc j’ai préférer corriger ça.   
+« Oui, mais tu n’as pas repris ce qui existait déjà ?   
+- Je te rappelle que c’était buggé, donc j’ai préféré corriger ça.   
 - Je suis pas sur qu’il fallait perdre du temps avec ça …   
 - 5 minutes chrono en main et le kawa dans l’autre, c'est pas ce qui va nous mettre dans le jus. »
 
-Bon j’espère qu’il a bien reçu le message, et qu’il va s’en retourner faire des chateaux de sable dans son cratère et laisser les grands travailler.
+Bon j’espère qu’il a bien reçu le message, et qu’il va s’en retourner faire des châteaux de sable dans son cratère et laisser les grands travailler. Eh bien non, il récidive le bougre. A croire que c’est comme ça qu’on les reconnaît.
+
+« Et c’est fait comment sur [autre projet] ? »
+
+Je l’avais pas vu venir celle-là. Dois-je lui rappeler qu’il porte entre autres le titre de lead tech ? S’il y a bien une personne qui doit-être à même de répondre du tact ou tact à cette question c’est bien lui.   
+Je tente de lui faire remarquer que l’analyse qu’il a faite est aux fraises, qu’il manque la moitié des specs et que le reste à sans doute été écrit par un schizophrène sous X : c’est pas le plus grave. Oui le world first problem, c’est l’image sur le titre qui est mal calée.
+
+Faites jouer l’orchestre, l’iceberg est en vue.
+
