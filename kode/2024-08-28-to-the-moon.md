@@ -17,4 +17,4 @@ On commence à éplucher les pages du proto quand l’autre sélénite agite son
 - Je suis pas sur qu’il fallait perdre du temps avec ça …   
 - 5 minutes chrono en main et le kawa dans l’autre, c'est pas ce qui va nous mettre dans le jus. »
 
-Bon j'espère qu'il va se planquer au fond d'un cratère et qu'il reviendra pas de si tôt.
+Bon j’espère qu’il a bien reçu le message, et qu’il va s’en retourner faire des chateaux de sable dans son cratère et laisser les grands travailler.
