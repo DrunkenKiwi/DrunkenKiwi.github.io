@@ -8,3 +8,5 @@ Autant le dire tout de go, je ne suis pas un grand écrivain. Si j’avais des d
 Je profite de cet espace pour pouvoir m’exprimer en restant bien caché derrière la relative sécurité du pseudonyma. Il ne faudra pas bien être trop malin pour réussir à percer le mystère de mon identité. Je gage que vous avez sans doute beaucoup mieux à faire de vos journées. En tout cas je vous le souhaite.
 
 Petit addendum de dernière minute, si vous souhaitez ajouter un commentaire ou réagir à un de mes posts : vous pouvez le faire en faisant juste une petite merge request. Je m'efforcerais d'ajouter ça dans la marge et dans la mesure du temps qui m'est disponible.
+
+La suite est [ici](https://drunkenkiwi.github.io/kode/index.md)
